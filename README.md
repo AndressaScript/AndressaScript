@@ -6,7 +6,7 @@
 ### 📌 Projetos  
 ✨ *Confira alguns projetos que realizei!* ✨  
 
-🚀 [**Rede Social para Alunos da ETEC**]([https://github.com/seu-repositorio](https://github.com/HefestusTCC/Lacos-App) – Aplicativo desenvolvido como **Trabalho de Conclusão de Curso (TCC)**, com o objetivo de promover a socialização no ambiente escolar, facilitando a interação entre os estudantes.  
+🚀 **Rede Social para Alunos da ETEC**]([(https://github.com/HefestusTCC/Lacos-App)] – Aplicativo desenvolvido como **Trabalho de Conclusão de Curso (TCC)**, com o objetivo de promover a socialização no ambiente escolar, facilitando a interação entre os estudantes.  
 
 
 ##

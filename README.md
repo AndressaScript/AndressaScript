@@ -1,7 +1,7 @@
 ## 👋🏽 Olá, eu me chamo Andressa! 
 #### Compartilho aqui projetos que desenvolvi durante o período que realizei o curso de Desenvolvimento de Sistemas na ETEC. 
 
-🎓 Atualmente, estou no processo de matrícula na Faculdade Federal do ABC para cursar Ciências da Computação. 
+🎓 Atualmente, estou no processo de matrícula na Faculdade Federal do ABC para cursar Ciência da Computação. 
 
 ### 📌 Projetos  
 ✨ *Confira alguns projetos que realizei!* ✨  

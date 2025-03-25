@@ -13,8 +13,8 @@
 
 <div>
   <a href = "https://github.com/AndressaScript">
-    <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=AndressaScript&hide=contribs,prs&show_icons=true&theme=radical"/>
-    <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaScript&hide_progress=true&theme=radical"/>
+    <img height = "140em" src="https://github-readme-stats.vercel.app/api?username=AndressaScript&hide=contribs,prs&show_icons=true&theme=radical"/>
+    <img height = "140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaScript&hide_progress=true&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height: = "40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
